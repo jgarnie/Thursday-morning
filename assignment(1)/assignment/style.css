@@ -1,0 +1,35 @@
+body{
+    font-family: 
+    font-weight: 100;
+    font-family: 'PT Serif', serif;
+}
+nav a{
+    color:crimson;
+    text-decoration: none;
+}
+#about > blockquote{
+    background-color: #eaeaea;
+}
+#users > p > span{
+    font-weight: bold;
+}
+#users > p :last-child{
+    color:crimson;
+}
+/*#users span:nth-of-type(2)*/
+#creators .font{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+#creators .link.font {
+    font-family: 'PT Serif', serif;
+    text-decoration: none;
+}
+#cta h2{
+    color: crimson;
+    font:'Lato';
+}
+ul li:nth-child(1),
+ul li:nth-child(3){
+    text-decoration: underline;
+}
